@@ -1,5 +1,5 @@
 # Base Image
-FROM ${baseImage}
+FROM ubuntu:14.04
 
 # Maintainer
 MAINTAINER Shailendra Singh <shailendra_01@outlook.com>
